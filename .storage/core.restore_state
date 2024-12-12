@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.restore_state",
+  "data": [
+    {
+      "state": {"entity_id":"update.home_assistant_supervisor_update","state":"off","attributes":{"auto_update":true,"display_precision":0,"installed_version":"2024.11.4","in_progress":false,"latest_version":"2024.11.4","release_summary":null,"release_url":"https://github.com/home-assistant/supervisor/releases/tag/2024.11.4","skipped_version":null,"title":"Home Assistant Supervisor","update_percentage":null,"entity_picture":"https://brands.home-assistant.io/hassio/icon.png","friendly_name":"Home Assistant Supervisor Update","supported_features":1},"last_changed":"2024-12-12T21:06:53.697203+00:00","last_reported":"2024-12-12T21:06:53.697203+00:00","last_updated":"2024-12-12T21:06:53.697203+00:00","context":{"id":"01JEYB4B41WG5TK07MSPCGV8CH","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-12-12T21:06:53.778695+00:00"
+    },
+    {
+      "state": {"entity_id":"update.home_assistant_core_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"2024.12.2","in_progress":false,"latest_version":"2024.12.2","release_summary":null,"release_url":"https://www.home-assistant.io/latest-release-notes/","skipped_version":null,"title":"Home Assistant Core","update_percentage":null,"entity_picture":"https://brands.home-assistant.io/homeassistant/icon.png","friendly_name":"Home Assistant Core Update","supported_features":11},"last_changed":"2024-12-12T21:06:53.697515+00:00","last_reported":"2024-12-12T21:06:53.697515+00:00","last_updated":"2024-12-12T21:06:53.697515+00:00","context":{"id":"01JEYB4B41R55HSKVX8J9PHSS5","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-12-12T21:06:53.778695+00:00"
+    },
+    {
+      "state": {"entity_id":"update.git_pull_update","state":"off","attributes":{"auto_update":true,"display_precision":0,"installed_version":"7.14.1","in_progress":false,"latest_version":"7.14.1","release_summary":"# Changelog\n\n## 7.14.1\n- Fix error where $HOME is not defined\n\n## 7.14.0\n\n- Update base image to Alpine 3.19\n- Update Home Assistant CLI to 4.31.0\n\n## 7.13.1\n\n- Update Home Assistant CLI to 4.12.2\n\n## 7.13.0\n\n- Update Home Assistant CLI to 4.12.1\n- Upgrad","release_url":null,"skipped_version":null,"title":"Git pull","update_percentage":null,"entity_picture":"/api/hassio/addons/core_git_pull/icon","friendly_name":"Git pull Update","supported_features":25},"last_changed":"2024-12-12T21:06:53.698217+00:00","last_reported":"2024-12-12T21:06:53.698217+00:00","last_updated":"2024-12-12T21:06:53.698217+00:00","context":{"id":"01JEYB4B428A1TV9G3VQSZ781W","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-12-12T21:06:53.778695+00:00"
+    },
+    {
+      "state": {"entity_id":"update.terminal_ssh_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"9.15.0","in_progress":false,"latest_version":"9.16.0","release_summary":"# Changelog\n\n## 9.16.0\n\n- Upgrade ttyd to 1.7.7 (fixes copy to clipboard using shift and drag)\n\n#","release_url":null,"skipped_version":"9.16.0","title":"Terminal & SSH","update_percentage":null,"entity_picture":"/api/hassio/addons/core_ssh/icon","friendly_name":"Terminal & SSH Update","supported_features":25},"last_changed":"2024-12-12T21:06:53.698388+00:00","last_reported":"2024-12-12T21:06:53.698388+00:00","last_updated":"2024-12-12T21:06:53.698388+00:00","context":{"id":"01JEYB4B421JHE4TRK8VMH2XH2","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-12-12T21:06:53.778695+00:00"
+    },
+    {
+      "state": {"entity_id":"update.get_hacs_update","state":"off","attributes":{"auto_update":true,"display_precision":0,"installed_version":"1.3.1","in_progress":false,"latest_version":"1.3.1","release_summary":"# 1.3.1\n\n- Fix problems with getting the current version for development builds\n\n# 1.3.0\n\n- Dynamically get the version again\n\n# 1.2.1\n\n- Create custom_components directory if it does not exist\n\n# 1.2.0\n\n- Set dev version to 2.0.0\n\n# 1.1.1\n\n- Fix version ","release_url":null,"skipped_version":null,"title":"Get HACS","update_percentage":null,"entity_picture":"/api/hassio/addons/cb646a50_get/icon","friendly_name":"Get HACS Update","supported_features":25},"last_changed":"2024-12-12T21:06:53.698528+00:00","last_reported":"2024-12-12T21:06:53.698528+00:00","last_updated":"2024-12-12T21:06:53.698528+00:00","context":{"id":"01JEYB4B428RYPAZVP0M6XXATX","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-12-12T21:06:53.778695+00:00"
+    },
+    {
+      "state": {"entity_id":"update.cloudflared_update","state":"off","attributes":{"auto_update":true,"display_precision":0,"installed_version":"5.2.3","in_progress":false,"latest_version":"5.2.3","release_summary":"## What’s changed\n## ⬆️ Dependency updates\n\n- ⬆️ Update docker/build-push-action action to v6.10.0 @renovate (#741)\n- ⬆️ Update Add-on base image to v17 (major) @renovate (#747)\n- ⬆️ Update cloudflare/cloudflared to v2024.12.0 @renovate (#748)\n- ⬆️ Update","release_url":null,"skipped_version":null,"title":"Cloudflared","update_percentage":null,"entity_picture":"/api/hassio/addons/84b25f81_cloudflared/icon","friendly_name":"Cloudflared Update","supported_features":25},"last_changed":"2024-12-12T21:06:53.698662+00:00","last_reported":"2024-12-12T21:06:53.698662+00:00","last_updated":"2024-12-12T21:06:53.698662+00:00","context":{"id":"01JEYB4B42FWN19Z6H253SE2EB","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-12-12T21:06:53.778695+00:00"
+    },
+    {
+      "state": {"entity_id":"update.home_assistant_operating_system_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"14.0","in_progress":false,"latest_version":"14.0","release_summary":null,"release_url":"https://github.com/home-assistant/operating-system/releases/tag/14.0","skipped_version":null,"title":"Home Assistant Operating System","update_percentage":null,"entity_picture":"https://brands.home-assistant.io/homeassistant/icon.png","friendly_name":"Home Assistant Operating System Update","supported_features":3},"last_changed":"2024-12-12T21:06:53.698869+00:00","last_reported":"2024-12-12T21:06:53.698869+00:00","last_updated":"2024-12-12T21:06:53.698869+00:00","context":{"id":"01JEYB4B42ETTH9DY48ZX3P316","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-12-12T21:06:53.778695+00:00"
+    },
+    {
+      "state": {"entity_id":"person.hausmeistersteuerung","state":"unknown","attributes":{"editable":true,"id":"hausmeistersteuerung","device_trackers":[],"user_id":"119ec5b7b4cd4cfcbfe1392c4cbe2ce9","friendly_name":"Hausmeistersteuerung"},"last_changed":"2024-12-12T20:39:57.142401+00:00","last_reported":"2024-12-12T20:39:57.142556+00:00","last_updated":"2024-12-12T20:39:57.142401+00:00","context":{"id":"01JEY9K0EPCJS4Y7EC6KV5ZYN1","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-12-12T20:59:20.399567+00:00"
+    },
+    {
+      "state": {"entity_id":"tts.google_translate_en_com","state":"unknown","attributes":{"friendly_name":"Google Translate en com"},"last_changed":"2024-12-12T20:40:09.202328+00:00","last_reported":"2024-12-12T20:40:09.202328+00:00","last_updated":"2024-12-12T20:40:09.202328+00:00","context":{"id":"01JEY9KC7JZ8TS7MNAHAEYNHTZ","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-12-12T20:59:20.399567+00:00"
+    },
+    {
+      "state": {"entity_id":"conversation.home_assistant","state":"unknown","attributes":{"friendly_name":"Home Assistant","supported_features":1},"last_changed":"2024-12-12T19:09:34.378557+00:00","last_reported":"2024-12-12T19:09:34.378557+00:00","last_updated":"2024-12-12T19:09:34.378557+00:00","context":{"id":"01JEY4DGSA4KWTHR2B6V32NCXG","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-12-12T20:35:38.699819+00:00"
+    },
+    {
+      "state": {"entity_id":"update.art_net_led_lighting_for_dmx_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"v0.1.21","in_progress":false,"latest_version":"v0.1.21","release_summary":null,"release_url":"https://github.com/Breina/ha-artnet-led/releases/v0.1.21","skipped_version":null,"title":null,"update_percentage":null,"entity_picture":"https://brands.home-assistant.io/_/artnet_led/icon.png","friendly_name":"Art-net LED Lighting for DMX update","supported_features":23},"last_changed":"2024-12-12T19:09:35.172180+00:00","last_reported":"2024-12-12T19:09:35.172180+00:00","last_updated":"2024-12-12T19:09:35.172180+00:00","context":{"id":"01JEY4DHJ4RKJ9T2KV1JNER5KQ","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-12-12T20:35:38.699819+00:00"
+    },
+    {
+      "state": {"entity_id":"update.hacs_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"2.0.1","in_progress":false,"latest_version":"2.0.1","release_summary":null,"release_url":"https://github.com/hacs/integration/releases/2.0.1","skipped_version":null,"title":null,"update_percentage":null,"entity_picture":"https://brands.home-assistant.io/_/hacs/icon.png","friendly_name":"HACS update","supported_features":23},"last_changed":"2024-12-12T19:09:35.172378+00:00","last_reported":"2024-12-12T19:09:35.172378+00:00","last_updated":"2024-12-12T19:09:35.172378+00:00","context":{"id":"01JEY4DHJ4K3WCDRZQADJVMDRH","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2024-12-12T20:35:38.699819+00:00"
+    }
+  ]
+}
