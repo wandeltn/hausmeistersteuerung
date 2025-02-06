@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "minor_version": 1,
+  "key": "person",
+  "data": {
+    "items": [
+      {
+        "id": "hausmeistersteuerung",
+        "name": "Hausmeistersteuerung",
+        "user_id": "ef584b1f78f54d2a9e694e38862c7cdd",
+        "device_trackers": [
+          "device_tracker.a063"
+        ]
+      },
+      {
+        "id": "tablet",
+        "name": "Tablet",
+        "device_trackers": [
+          "device_tracker.sm_t580"
+        ],
+        "user_id": "5e153d1d945e415ea2f45c7cddfeb9fc",
+        "picture": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "minor_version": 8,
+  "key": "core.area_registry",
+  "data": {
+    "areas": [
+      {
+        "aliases": [],
+        "floor_id": null,
+        "icon": null,
+        "id": "living_room",
+        "labels": [],
+        "name": "Living Room",
+        "picture": null,
+        "created_at": "2025-02-05T17:14:01.851943+00:00",
+        "modified_at": "2025-02-05T17:14:01.851946+00:00",
+        "humidity_entity_id": null,
+        "temperature_entity_id": null
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "icon": null,
+        "id": "kitchen",
+        "labels": [],
+        "name": "Kitchen",
+        "picture": null,
+        "created_at": "2025-02-05T17:14:01.852055+00:00",
+        "modified_at": "2025-02-05T17:14:01.852056+00:00",
+        "humidity_entity_id": null,
+        "temperature_entity_id": null
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "icon": null,
+        "id": "bedroom",
+        "labels": [],
+        "name": "Bedroom",
+        "picture": null,
+        "created_at": "2025-02-05T17:14:01.852102+00:00",
+        "modified_at": "2025-02-05T17:14:01.852103+00:00",
+        "humidity_entity_id": null,
+        "temperature_entity_id": null
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "icon": null,
+        "id": "fresnel_buhne",
+        "labels": [],
+        "name": "Fresnel Bühne",
+        "picture": null,
+        "created_at": "2025-02-05T18:40:30.806114+00:00",
+        "modified_at": "2025-02-05T18:40:30.806120+00:00",
+        "humidity_entity_id": null,
+        "temperature_entity_id": null
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "icon": null,
+        "id": "fresnel_links",
+        "labels": [],
+        "name": "Fresnel Links",
+        "picture": null,
+        "created_at": "2025-02-05T18:40:57.602053+00:00",
+        "modified_at": "2025-02-05T18:40:57.602061+00:00",
+        "humidity_entity_id": null,
+        "temperature_entity_id": null
+      },
+      {
+        "aliases": [],
+        "floor_id": null,
+        "icon": null,
+        "id": "fresnel_rechts",
+        "labels": [],
+        "name": "Fresnel Rechts",
+        "picture": null,
+        "created_at": "2025-02-05T18:41:17.399012+00:00",
+        "modified_at": "2025-02-05T18:41:17.399017+00:00",
+        "humidity_entity_id": null,
+        "temperature_entity_id": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "lovelace",
+  "data": {
+    "config": {
+      "views": [
+        {
+          "title": "Home",
+          "sections": [
+            {
+              "type": "grid",
+              "cards": [
+                {
+                  "type": "heading",
+                  "heading": "Ton",
+                  "heading_style": "title",
+                  "icon": "mdi:speaker"
+                },
+                {
+                  "type": "custom:custom-mixer-card",
+                  "faderWidth": "50px",
+                  "faderHeight": "200px",
+                  "borderRadius": "25px",
+                  "faderThumbColor": "#DDD",
+                  "faderTrackColor": "#DDD",
+                  "faderActiveColor": "#22ba00",
+                  "faderInactiveColor": "#F00",
+                  "faderTheme": "physical",
+                  "faders": [
+                    {
+                      "entity_id": "number.x32rack_04_d4_e1_channel_1_fader",
+                      "active_entity_id": "switch.x32rack_04_d4_e1_channel_1_on"
+                    },
+                    {
+                      "entity_id": "number.x32rack_04_d4_e1_channel_2_fader",
+                      "active_entity_id": "switch.x32rack_04_d4_e1_channel_2_on"
+                    },
+                    {
+                      "entity_id": "number.x32rack_04_d4_e1_main_fader",
+                      "active_entity_id": "switch.x32rack_04_d4_e1_main_on"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "grid",
+              "cards": [
+                {
+                  "type": "heading",
+                  "heading_style": "title",
+                  "heading": "Licht",
+                  "icon": "mdi:track-light"
+                },
+                {
+                  "type": "custom:bubble-card",
+                  "card_type": "button",
+                  "button_type": "slider",
+                  "entity": "light.fresnel_buhne",
+                  "name": "Bühne mitte",
+                  "use_accent_color": true,
+                  "tap_action": {
+                    "action": "none"
+                  }
+                },
+                {
+                  "type": "custom:bubble-card",
+                  "card_type": "button",
+                  "button_type": "slider",
+                  "entity": "light.fresnel_links",
+                  "name": "Bühne links",
+                  "use_accent_color": true,
+                  "tap_action": {
+                    "action": "none"
+                  }
+                },
+                {
+                  "type": "custom:bubble-card",
+                  "card_type": "button",
+                  "button_type": "slider",
+                  "entity": "light.fresnel_rechts",
+                  "name": "Bühne rechts",
+                  "use_accent_color": true,
+                  "tap_action": {
+                    "action": "none"
+                  }
+                },
+                {
+                  "type": "custom:bubble-card",
+                  "card_type": "button",
+                  "button_type": "slider",
+                  "entity": "light.profiler",
+                  "name": "Profiler",
+                  "use_accent_color": true,
+                  "tap_action": {
+                    "action": "none"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "grid",
+              "cards": [
+                {
+                  "type": "heading",
+                  "heading": "Beamer",
+                  "heading_style": "title",
+                  "icon": "mdi:projector"
+                },
+                {
+                  "type": "markdown",
+                  "content": "### Noch nicht da!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

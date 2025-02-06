@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "auth_provider.homeassistant",
+  "data": {
+    "users": [
+      {
+        "username": "hausmeistersteuerung",
+        "password": "JDJiJDEyJHhaMW4vcUdrck50ZDVhNS9CVk5hL3VCbWx4eDZ3RU0zNVFWOVg4TWhJcmFlc25DZVBwM00y"
+      },
+      {
+        "username": "tablet",
+        "password": "JDJiJDEyJFZVaWV6RllJYmNnQXdqdmdnSXhYYWVOTTdscHMxaWhNUzBuSFQ5Wnp3Q082RDNvdXRPTEZX"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "lovelace_resources",
+  "data": {
+    "items": [
+      {
+        "id": "9e2e957db25f4f4189744c64fe91b31a",
+        "url": "/hacsfiles/Bubble-Card/bubble-card.js?hacstag=680112919240",
+        "type": "module"
+      },
+      {
+        "id": "727a625cfbfb4053846fa04d6d543122",
+        "url": "/hacsfiles/mixer-card/mixer-card.js?hacstag=715374965017",
+        "type": "module"
+      }
+    ]
+  }
+}
