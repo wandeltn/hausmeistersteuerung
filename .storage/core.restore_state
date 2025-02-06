@@ -4,197 +4,197 @@
   "key": "core.restore_state",
   "data": [
     {
-      "state": {"entity_id":"person.hausmeistersteuerung","state":"unknown","attributes":{"editable":true,"id":"hausmeistersteuerung","device_trackers":["device_tracker.a063"],"user_id":"ef584b1f78f54d2a9e694e38862c7cdd","friendly_name":"Hausmeistersteuerung"},"last_changed":"2025-02-06T07:41:27.734176+00:00","last_reported":"2025-02-06T07:41:33.807338+00:00","last_updated":"2025-02-06T07:41:33.807338+00:00","context":{"id":"01JKD39ZQFWNSPAB2BWW7XJ9Y4","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"person.hausmeistersteuerung","state":"unknown","attributes":{"editable":true,"id":"hausmeistersteuerung","device_trackers":["device_tracker.a063"],"source":"person.hausmeistersteuerung","user_id":"ef584b1f78f54d2a9e694e38862c7cdd","friendly_name":"Hausmeistersteuerung"},"last_changed":"2025-02-06T09:48:37.510109+00:00","last_reported":"2025-02-06T09:48:37.510109+00:00","last_updated":"2025-02-06T09:48:37.510109+00:00","context":{"id":"01JKDAJMR624W265Y0S1AWZ1Y5","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"person.tablet","state":"home","attributes":{"editable":true,"id":"tablet","device_trackers":["device_tracker.sm_t580"],"latitude":52.4186815,"longitude":10.7819609,"gps_accuracy":100,"source":"device_tracker.sm_t580","user_id":"5e153d1d945e415ea2f45c7cddfeb9fc","friendly_name":"Tablet"},"last_changed":"2025-02-06T07:41:27.734325+00:00","last_reported":"2025-02-06T09:28:43.715684+00:00","last_updated":"2025-02-06T09:28:43.715684+00:00","context":{"id":"01JKD9E6Y38PAC41FP2MPDJN68","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"person.tablet","state":"home","attributes":{"editable":true,"id":"tablet","device_trackers":["device_tracker.sm_t580"],"latitude":52.4186815,"longitude":10.7819609,"gps_accuracy":100,"source":"person.tablet","user_id":"5e153d1d945e415ea2f45c7cddfeb9fc","friendly_name":"Tablet"},"last_changed":"2025-02-06T09:48:37.510263+00:00","last_reported":"2025-02-06T09:48:37.510263+00:00","last_updated":"2025-02-06T09:48:37.510263+00:00","context":{"id":"01JKDAJMR68X28SJX2NDFFM9SF","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"update.home_assistant_supervisor_update","state":"off","attributes":{"auto_update":true,"display_precision":0,"installed_version":"2025.02.0","in_progress":false,"latest_version":"2025.02.0","release_summary":null,"release_url":"https://github.com/home-assistant/supervisor/releases/tag/2025.02.0","skipped_version":null,"title":"Home Assistant Supervisor","update_percentage":null,"entity_picture":"https://brands.home-assistant.io/hassio/icon.png","friendly_name":"Home Assistant Supervisor Update","supported_features":1},"last_changed":"2025-02-06T07:41:27.954103+00:00","last_reported":"2025-02-06T07:41:27.954103+00:00","last_updated":"2025-02-06T07:41:27.954103+00:00","context":{"id":"01JKD39T0JVGK7F399HXTEYWMZ","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.home_assistant_supervisor_update","state":"off","attributes":{"auto_update":true,"display_precision":0,"installed_version":"2025.02.0","in_progress":false,"latest_version":"2025.02.0","release_summary":null,"release_url":"https://github.com/home-assistant/supervisor/releases/tag/2025.02.0","skipped_version":null,"title":"Home Assistant Supervisor","update_percentage":null,"entity_picture":"https://brands.home-assistant.io/hassio/icon.png","friendly_name":"Home Assistant Supervisor Update","supported_features":1},"last_changed":"2025-02-06T09:48:37.684703+00:00","last_reported":"2025-02-06T09:48:37.684703+00:00","last_updated":"2025-02-06T09:48:37.684703+00:00","context":{"id":"01JKDAJMXMKWH7P31PEBV8VX5G","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"update.home_assistant_core_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"2025.2.0","in_progress":false,"latest_version":"2025.2.0","release_summary":null,"release_url":"https://www.home-assistant.io/latest-release-notes/","skipped_version":null,"title":"Home Assistant Core","update_percentage":null,"entity_picture":"https://brands.home-assistant.io/homeassistant/icon.png","friendly_name":"Home Assistant Core Update","supported_features":11},"last_changed":"2025-02-06T07:41:27.954359+00:00","last_reported":"2025-02-06T07:41:27.954359+00:00","last_updated":"2025-02-06T07:41:27.954359+00:00","context":{"id":"01JKD39T0JRBWHXCVTEHD8RP3D","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.home_assistant_core_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"2025.2.0","in_progress":false,"latest_version":"2025.2.0","release_summary":null,"release_url":"https://www.home-assistant.io/latest-release-notes/","skipped_version":null,"title":"Home Assistant Core","update_percentage":null,"entity_picture":"https://brands.home-assistant.io/homeassistant/icon.png","friendly_name":"Home Assistant Core Update","supported_features":11},"last_changed":"2025-02-06T09:48:37.684962+00:00","last_reported":"2025-02-06T09:48:37.684962+00:00","last_updated":"2025-02-06T09:48:37.684962+00:00","context":{"id":"01JKDAJMXMWG5TK07MSPCGV8CH","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"update.get_hacs_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"1.3.1","in_progress":false,"latest_version":"1.3.1","release_summary":"# 1.3.1\n\n- Fix problems with getting the current version for development builds\n\n# 1.3.0\n\n- Dynamically get the version again\n\n# 1.2.1\n\n- Create custom_components directory if it does not exist\n\n# 1.2.0\n\n- Set dev version to 2.0.0\n\n# 1.1.1\n\n- Fix version ","release_url":null,"skipped_version":null,"title":"Get HACS","update_percentage":null,"entity_picture":"/api/hassio/addons/cb646a50_get/icon","friendly_name":"Get HACS Update","supported_features":25},"last_changed":"2025-02-06T07:41:27.954534+00:00","last_reported":"2025-02-06T07:41:27.954534+00:00","last_updated":"2025-02-06T07:41:27.954534+00:00","context":{"id":"01JKD39T0JKWH7P31PEBV8VX5G","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.get_hacs_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"1.3.1","in_progress":false,"latest_version":"1.3.1","release_summary":"# 1.3.1\n\n- Fix problems with getting the current version for development builds\n\n# 1.3.0\n\n- Dynamically get the version again\n\n# 1.2.1\n\n- Create custom_components directory if it does not exist\n\n# 1.2.0\n\n- Set dev version to 2.0.0\n\n# 1.1.1\n\n- Fix version ","release_url":null,"skipped_version":null,"title":"Get HACS","update_percentage":null,"entity_picture":"/api/hassio/addons/cb646a50_get/icon","friendly_name":"Get HACS Update","supported_features":25},"last_changed":"2025-02-06T09:48:37.685141+00:00","last_reported":"2025-02-06T09:48:37.685141+00:00","last_updated":"2025-02-06T09:48:37.685141+00:00","context":{"id":"01JKDAJMXNR55HSKVX8J9PHSS5","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"update.unifi_network_application_update","state":"off","attributes":{"auto_update":true,"display_precision":0,"installed_version":"4.0.1","in_progress":false,"latest_version":"4.0.1","release_summary":"## What’s changed\n\n## ⬆️ Dependency updates\n\n- ⬆️ Upgrades UniFi Network Application to 9.0.114 @cwmoriarty ([#550](https://github.com/hassio-addons/addon-unifi/pull/550))\n","release_url":null,"skipped_version":null,"title":"UniFi Network Application","update_percentage":null,"entity_picture":"/api/hassio/addons/a0d7b954_unifi/icon","friendly_name":"UniFi Network Application Update","supported_features":25},"last_changed":"2025-02-06T07:41:27.954659+00:00","last_reported":"2025-02-06T07:41:27.954659+00:00","last_updated":"2025-02-06T07:41:27.954659+00:00","context":{"id":"01JKD39T0JWG5TK07MSPCGV8CH","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.unifi_network_application_update","state":"off","attributes":{"auto_update":true,"display_precision":0,"installed_version":"4.0.1","in_progress":false,"latest_version":"4.0.1","release_summary":"## What’s changed\n\n## ⬆️ Dependency updates\n\n- ⬆️ Upgrades UniFi Network Application to 9.0.114 @cwmoriarty ([#550](https://github.com/hassio-addons/addon-unifi/pull/550))\n","release_url":null,"skipped_version":null,"title":"UniFi Network Application","update_percentage":null,"entity_picture":"/api/hassio/addons/a0d7b954_unifi/icon","friendly_name":"UniFi Network Application Update","supported_features":25},"last_changed":"2025-02-06T09:48:37.685266+00:00","last_reported":"2025-02-06T09:48:37.685266+00:00","last_updated":"2025-02-06T09:48:37.685266+00:00","context":{"id":"01JKDAJMXN8A1TV9G3VQSZ781W","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"update.git_pull_update","state":"off","attributes":{"auto_update":true,"display_precision":0,"installed_version":"7.14.1","in_progress":false,"latest_version":"7.14.1","release_summary":"# Changelog\n\n## 7.14.1\n- Fix error where $HOME is not defined\n\n## 7.14.0\n\n- Update base image to Alpine 3.19\n- Update Home Assistant CLI to 4.31.0\n\n## 7.13.1\n\n- Update Home Assistant CLI to 4.12.2\n\n## 7.13.0\n\n- Update Home Assistant CLI to 4.12.1\n- Upgrad","release_url":null,"skipped_version":null,"title":"Git pull","update_percentage":null,"entity_picture":"/api/hassio/addons/core_git_pull/icon","friendly_name":"Git pull Update","supported_features":25},"last_changed":"2025-02-06T07:41:27.954780+00:00","last_reported":"2025-02-06T07:41:27.954780+00:00","last_updated":"2025-02-06T07:41:27.954780+00:00","context":{"id":"01JKD39T0JR55HSKVX8J9PHSS5","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.git_pull_update","state":"off","attributes":{"auto_update":true,"display_precision":0,"installed_version":"7.14.1","in_progress":false,"latest_version":"7.14.1","release_summary":"# Changelog\n\n## 7.14.1\n- Fix error where $HOME is not defined\n\n## 7.14.0\n\n- Update base image to Alpine 3.19\n- Update Home Assistant CLI to 4.31.0\n\n## 7.13.1\n\n- Update Home Assistant CLI to 4.12.2\n\n## 7.13.0\n\n- Update Home Assistant CLI to 4.12.1\n- Upgrad","release_url":null,"skipped_version":null,"title":"Git pull","update_percentage":null,"entity_picture":"/api/hassio/addons/core_git_pull/icon","friendly_name":"Git pull Update","supported_features":25},"last_changed":"2025-02-06T09:48:37.685381+00:00","last_reported":"2025-02-06T09:48:37.685381+00:00","last_updated":"2025-02-06T09:48:37.685381+00:00","context":{"id":"01JKDAJMXN1JHE4TRK8VMH2XH2","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"update.file_editor_update","state":"off","attributes":{"auto_update":true,"display_precision":0,"installed_version":"5.8.0","in_progress":false,"latest_version":"5.8.0","release_summary":"# Changelog\n\n## 5.8.0\n\n- Update base image to Alpine 3.19\n\n## 5.7.0\n\n- Use new location for accessing the Home Assistant configuration folder using `/homeassistant`\n- Add access to the new public configuration folders of add-ons\n- Upgrade to Alpine 3.18\n-","release_url":null,"skipped_version":null,"title":"File editor","update_percentage":null,"entity_picture":"/api/hassio/addons/core_configurator/icon","friendly_name":"File editor Update","supported_features":25},"last_changed":"2025-02-06T07:41:27.954923+00:00","last_reported":"2025-02-06T07:41:27.954923+00:00","last_updated":"2025-02-06T07:41:27.954923+00:00","context":{"id":"01JKD39T0J8A1TV9G3VQSZ781W","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.file_editor_update","state":"off","attributes":{"auto_update":true,"display_precision":0,"installed_version":"5.8.0","in_progress":false,"latest_version":"5.8.0","release_summary":"# Changelog\n\n## 5.8.0\n\n- Update base image to Alpine 3.19\n\n## 5.7.0\n\n- Use new location for accessing the Home Assistant configuration folder using `/homeassistant`\n- Add access to the new public configuration folders of add-ons\n- Upgrade to Alpine 3.18\n-","release_url":null,"skipped_version":null,"title":"File editor","update_percentage":null,"entity_picture":"/api/hassio/addons/core_configurator/icon","friendly_name":"File editor Update","supported_features":25},"last_changed":"2025-02-06T09:48:37.685491+00:00","last_reported":"2025-02-06T09:48:37.685491+00:00","last_updated":"2025-02-06T09:48:37.685491+00:00","context":{"id":"01JKDAJMXN8RYPAZVP0M6XXATX","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"update.cloudflared_update","state":"off","attributes":{"auto_update":true,"display_precision":0,"installed_version":"5.2.8","in_progress":false,"latest_version":"5.2.8","release_summary":"## What’s changed\n## 🐛 Bug fixes\n\n- Add Nginx as a workaround to get log streaming working again @elcajon (#767)\n- Restrict live log nginx location @elcajon (#780)\n- Increase nginx proxy_read_timeout @elcajon (#781)\n\n## 📚 Documentation\n\n- Add comment on h","release_url":null,"skipped_version":null,"title":"Cloudflared","update_percentage":null,"entity_picture":"/api/hassio/addons/84b25f81_cloudflared/icon","friendly_name":"Cloudflared Update","supported_features":25},"last_changed":"2025-02-06T07:41:27.955034+00:00","last_reported":"2025-02-06T07:41:27.955034+00:00","last_updated":"2025-02-06T07:41:27.955034+00:00","context":{"id":"01JKD39T0K1JHE4TRK8VMH2XH2","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.cloudflared_update","state":"off","attributes":{"auto_update":true,"display_precision":0,"installed_version":"5.2.8","in_progress":false,"latest_version":"5.2.8","release_summary":"## What’s changed\n## 🐛 Bug fixes\n\n- Add Nginx as a workaround to get log streaming working again @elcajon (#767)\n- Restrict live log nginx location @elcajon (#780)\n- Increase nginx proxy_read_timeout @elcajon (#781)\n\n## 📚 Documentation\n\n- Add comment on h","release_url":null,"skipped_version":null,"title":"Cloudflared","update_percentage":null,"entity_picture":"/api/hassio/addons/84b25f81_cloudflared/icon","friendly_name":"Cloudflared Update","supported_features":25},"last_changed":"2025-02-06T09:48:37.685594+00:00","last_reported":"2025-02-06T09:48:37.685594+00:00","last_updated":"2025-02-06T09:48:37.685594+00:00","context":{"id":"01JKDAJMXNFWN19Z6H253SE2EB","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"update.terminal_ssh_update","state":"off","attributes":{"auto_update":true,"display_precision":0,"installed_version":"9.16.0","in_progress":false,"latest_version":"9.16.0","release_summary":"# Changelog\n\n## 9.16.0\n\n- Upgrade ttyd to 1.7.7 (fixes copy to clipboard using shift and drag)\n\n## 9.15.0\n\n- Upgrade Home Assistant CLI to 4.36.0\n\n## 9.14.0\n\n- Upgrade Home Assistant CLI to 4.34.0\n\n## 9.13.0\n\n- Enable ha command completion for non-login s","release_url":null,"skipped_version":null,"title":"Terminal & SSH","update_percentage":null,"entity_picture":"/api/hassio/addons/core_ssh/icon","friendly_name":"Terminal & SSH Update","supported_features":25},"last_changed":"2025-02-06T07:41:27.955143+00:00","last_reported":"2025-02-06T07:41:27.955143+00:00","last_updated":"2025-02-06T07:41:27.955143+00:00","context":{"id":"01JKD39T0K8RYPAZVP0M6XXATX","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.terminal_ssh_update","state":"off","attributes":{"auto_update":true,"display_precision":0,"installed_version":"9.16.0","in_progress":false,"latest_version":"9.16.0","release_summary":"# Changelog\n\n## 9.16.0\n\n- Upgrade ttyd to 1.7.7 (fixes copy to clipboard using shift and drag)\n\n## 9.15.0\n\n- Upgrade Home Assistant CLI to 4.36.0\n\n## 9.14.0\n\n- Upgrade Home Assistant CLI to 4.34.0\n\n## 9.13.0\n\n- Enable ha command completion for non-login s","release_url":null,"skipped_version":null,"title":"Terminal & SSH","update_percentage":null,"entity_picture":"/api/hassio/addons/core_ssh/icon","friendly_name":"Terminal & SSH Update","supported_features":25},"last_changed":"2025-02-06T09:48:37.685699+00:00","last_reported":"2025-02-06T09:48:37.685699+00:00","last_updated":"2025-02-06T09:48:37.685699+00:00","context":{"id":"01JKDAJMXNETTH9DY48ZX3P316","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"update.home_assistant_operating_system_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"14.2","in_progress":false,"latest_version":"14.2","release_summary":null,"release_url":"https://github.com/home-assistant/operating-system/releases/tag/14.2","skipped_version":null,"title":"Home Assistant Operating System","update_percentage":null,"entity_picture":"https://brands.home-assistant.io/homeassistant/icon.png","friendly_name":"Home Assistant Operating System Update","supported_features":3},"last_changed":"2025-02-06T07:41:27.955326+00:00","last_reported":"2025-02-06T07:41:27.955326+00:00","last_updated":"2025-02-06T07:41:27.955326+00:00","context":{"id":"01JKD39T0KFWN19Z6H253SE2EB","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.home_assistant_operating_system_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"14.2","in_progress":false,"latest_version":"14.2","release_summary":null,"release_url":"https://github.com/home-assistant/operating-system/releases/tag/14.2","skipped_version":null,"title":"Home Assistant Operating System","update_percentage":null,"entity_picture":"https://brands.home-assistant.io/homeassistant/icon.png","friendly_name":"Home Assistant Operating System Update","supported_features":3},"last_changed":"2025-02-06T09:48:37.685879+00:00","last_reported":"2025-02-06T09:48:37.685879+00:00","last_updated":"2025-02-06T09:48:37.685879+00:00","context":{"id":"01JKDAJMXNRP5GEBR03S1AHXX3","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"conversation.home_assistant","state":"unknown","attributes":{"friendly_name":"Home Assistant","supported_features":1},"last_changed":"2025-02-06T07:41:28.849528+00:00","last_reported":"2025-02-06T07:41:28.849528+00:00","last_updated":"2025-02-06T07:41:28.849528+00:00","context":{"id":"01JKD39TWH0E0P31QFR4EFTMDC","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"conversation.home_assistant","state":"unknown","attributes":{"friendly_name":"Home Assistant","supported_features":1},"last_changed":"2025-02-06T09:48:38.668301+00:00","last_reported":"2025-02-06T09:48:38.668301+00:00","last_updated":"2025-02-06T09:48:38.668301+00:00","context":{"id":"01JKDAJNWC0XFT3HXTA65RNC91","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"light.profiler1","state":"off","attributes":{"supported_color_modes":["brightness"],"color_mode":null,"brightness":null,"type":"dimmer","dmx_channels":[1],"dmx_values":[0],"values":[],"bright":255,"friendly_name":"FresnelLU","supported_features":40},"last_changed":"2025-02-06T09:28:55.561574+00:00","last_reported":"2025-02-06T09:28:55.573802+00:00","last_updated":"2025-02-06T09:28:55.573802+00:00","context":{"id":"01JKD9EJG82PN2M06XPGHG0KH4","parent_id":null,"user_id":"5e153d1d945e415ea2f45c7cddfeb9fc"}},
+      "state": {"entity_id":"light.profiler1","state":"off","attributes":{"supported_color_modes":["brightness"],"color_mode":null,"brightness":null,"type":"dimmer","dmx_channels":[1],"dmx_values":[0],"values":[],"bright":255,"friendly_name":"FresnelLU","supported_features":40},"last_changed":"2025-02-06T09:48:38.789285+00:00","last_reported":"2025-02-06T09:48:38.789285+00:00","last_updated":"2025-02-06T09:48:38.789285+00:00","context":{"id":"01JKDAJP058MVV48CQ31JB2WKC","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"light.fresnelro","state":"off","attributes":{"supported_color_modes":["brightness"],"color_mode":null,"brightness":null,"type":"dimmer","dmx_channels":[2],"dmx_values":[0],"values":[],"bright":255,"friendly_name":"FresnelRO","supported_features":40},"last_changed":"2025-02-06T09:28:57.648581+00:00","last_reported":"2025-02-06T09:28:57.659264+00:00","last_updated":"2025-02-06T09:28:57.659264+00:00","context":{"id":"01JKD9EMHF3GKACZG6C0FBD628","parent_id":null,"user_id":"5e153d1d945e415ea2f45c7cddfeb9fc"}},
+      "state": {"entity_id":"light.fresnelro","state":"off","attributes":{"supported_color_modes":["brightness"],"color_mode":null,"brightness":null,"type":"dimmer","dmx_channels":[2],"dmx_values":[0],"values":[],"bright":255,"friendly_name":"FresnelRO","supported_features":40},"last_changed":"2025-02-06T09:48:38.789498+00:00","last_reported":"2025-02-06T09:48:38.789498+00:00","last_updated":"2025-02-06T09:48:38.789498+00:00","context":{"id":"01JKDAJP05MMADKGWE4A5BMH51","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"light.fresnelru","state":"off","attributes":{"supported_color_modes":["brightness"],"color_mode":null,"brightness":null,"type":"dimmer","dmx_channels":[3],"dmx_values":[0],"values":[],"bright":255,"friendly_name":"FresnelRU","supported_features":40},"last_changed":"2025-02-06T09:28:57.648375+00:00","last_reported":"2025-02-06T09:28:57.659135+00:00","last_updated":"2025-02-06T09:28:57.659135+00:00","context":{"id":"01JKD9EMHF3GKACZG6C0FBD628","parent_id":null,"user_id":"5e153d1d945e415ea2f45c7cddfeb9fc"}},
+      "state": {"entity_id":"light.fresnelru","state":"off","attributes":{"supported_color_modes":["brightness"],"color_mode":null,"brightness":null,"type":"dimmer","dmx_channels":[3],"dmx_values":[0],"values":[],"bright":255,"friendly_name":"FresnelRU","supported_features":40},"last_changed":"2025-02-06T09:48:38.789637+00:00","last_reported":"2025-02-06T09:48:38.789637+00:00","last_updated":"2025-02-06T09:48:38.789637+00:00","context":{"id":"01JKDAJP054KWTHR2B6V32NCXG","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"light.fresnello","state":"off","attributes":{"supported_color_modes":["brightness"],"color_mode":null,"brightness":null,"type":"dimmer","dmx_channels":[4],"dmx_values":[0],"values":[],"bright":255,"friendly_name":"FresnelLO","supported_features":40},"last_changed":"2025-02-06T09:28:55.561785+00:00","last_reported":"2025-02-06T09:28:55.574029+00:00","last_updated":"2025-02-06T09:28:55.574029+00:00","context":{"id":"01JKD9EJG82PN2M06XPGHG0KH4","parent_id":null,"user_id":"5e153d1d945e415ea2f45c7cddfeb9fc"}},
+      "state": {"entity_id":"light.fresnello","state":"off","attributes":{"supported_color_modes":["brightness"],"color_mode":null,"brightness":null,"type":"dimmer","dmx_channels":[4],"dmx_values":[0],"values":[],"bright":255,"friendly_name":"FresnelLO","supported_features":40},"last_changed":"2025-02-06T09:48:38.789750+00:00","last_reported":"2025-02-06T09:48:38.789750+00:00","last_updated":"2025-02-06T09:48:38.789750+00:00","context":{"id":"01JKDAJP057XACQ25ZHDP6F7RG","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"light.fresnel1","state":"off","attributes":{"supported_color_modes":["brightness"],"color_mode":null,"brightness":null,"type":"dimmer","dmx_channels":[5],"dmx_values":[0],"values":[],"bright":177,"friendly_name":"FresnelBneR","supported_features":40},"last_changed":"2025-02-06T09:29:35.067894+00:00","last_reported":"2025-02-06T09:29:35.079346+00:00","last_updated":"2025-02-06T09:29:35.079346+00:00","context":{"id":"01JKD9FS2SQHMTR6KMQJQ6973R","parent_id":null,"user_id":"5e153d1d945e415ea2f45c7cddfeb9fc"}},
+      "state": {"entity_id":"light.fresnel1","state":"off","attributes":{"supported_color_modes":["brightness"],"color_mode":null,"brightness":null,"type":"dimmer","dmx_channels":[5],"dmx_values":[0],"values":[],"bright":177,"friendly_name":"FresnelBneR","supported_features":40},"last_changed":"2025-02-06T09:48:38.789852+00:00","last_reported":"2025-02-06T09:48:38.789852+00:00","last_updated":"2025-02-06T09:48:38.789852+00:00","context":{"id":"01JKDAJP05KQY9BDABX5QBRJY4","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"light.fresnelbnel","state":"off","attributes":{"supported_color_modes":["brightness"],"color_mode":null,"brightness":null,"type":"dimmer","dmx_channels":[6],"dmx_values":[0],"values":[],"bright":177,"friendly_name":"FresnelBneL","supported_features":40},"last_changed":"2025-02-06T09:29:35.067688+00:00","last_reported":"2025-02-06T09:29:35.079212+00:00","last_updated":"2025-02-06T09:29:35.079212+00:00","context":{"id":"01JKD9FS2SQHMTR6KMQJQ6973R","parent_id":null,"user_id":"5e153d1d945e415ea2f45c7cddfeb9fc"}},
+      "state": {"entity_id":"light.fresnelbnel","state":"off","attributes":{"supported_color_modes":["brightness"],"color_mode":null,"brightness":null,"type":"dimmer","dmx_channels":[6],"dmx_values":[0],"values":[],"bright":177,"friendly_name":"FresnelBneL","supported_features":40},"last_changed":"2025-02-06T09:48:38.789960+00:00","last_reported":"2025-02-06T09:48:38.789960+00:00","last_updated":"2025-02-06T09:48:38.789960+00:00","context":{"id":"01JKDAJP05HGGMYY9AKP0JMRFW","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"light.profilerl","state":"off","attributes":{"supported_color_modes":["brightness"],"color_mode":null,"brightness":null,"type":"dimmer","dmx_channels":[7],"dmx_values":[0],"values":[],"bright":255,"friendly_name":"ProfilerL","supported_features":40},"last_changed":"2025-02-06T09:29:01.141715+00:00","last_reported":"2025-02-06T09:29:01.154171+00:00","last_updated":"2025-02-06T09:29:01.154171+00:00","context":{"id":"01JKD9EQYMWZ1HMPQD3PDW78MH","parent_id":null,"user_id":"5e153d1d945e415ea2f45c7cddfeb9fc"}},
+      "state": {"entity_id":"light.profilerl","state":"off","attributes":{"supported_color_modes":["brightness"],"color_mode":null,"brightness":null,"type":"dimmer","dmx_channels":[7],"dmx_values":[0],"values":[],"bright":255,"friendly_name":"ProfilerL","supported_features":40},"last_changed":"2025-02-06T09:48:38.790051+00:00","last_reported":"2025-02-06T09:48:38.790051+00:00","last_updated":"2025-02-06T09:48:38.790051+00:00","context":{"id":"01JKDAJP06GC9JK41DQP1ZERZY","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"light.profilerml","state":"off","attributes":{"supported_color_modes":["brightness"],"color_mode":null,"brightness":null,"type":"dimmer","dmx_channels":[8],"dmx_values":[0],"values":[],"bright":255,"friendly_name":"ProfilerML","supported_features":40},"last_changed":"2025-02-06T09:29:01.141592+00:00","last_reported":"2025-02-06T09:29:01.154099+00:00","last_updated":"2025-02-06T09:29:01.154099+00:00","context":{"id":"01JKD9EQYMWZ1HMPQD3PDW78MH","parent_id":null,"user_id":"5e153d1d945e415ea2f45c7cddfeb9fc"}},
+      "state": {"entity_id":"light.profilerml","state":"off","attributes":{"supported_color_modes":["brightness"],"color_mode":null,"brightness":null,"type":"dimmer","dmx_channels":[8],"dmx_values":[0],"values":[],"bright":255,"friendly_name":"ProfilerML","supported_features":40},"last_changed":"2025-02-06T09:48:38.790137+00:00","last_reported":"2025-02-06T09:48:38.790137+00:00","last_updated":"2025-02-06T09:48:38.790137+00:00","context":{"id":"01JKDAJP06D5F66YQ0NH3ACJ8T","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"light.profilermr","state":"off","attributes":{"supported_color_modes":["brightness"],"color_mode":null,"brightness":null,"type":"dimmer","dmx_channels":[9],"dmx_values":[0],"values":[],"bright":255,"friendly_name":"ProfilerMR","supported_features":40},"last_changed":"2025-02-06T09:29:01.141388+00:00","last_reported":"2025-02-06T09:29:01.153987+00:00","last_updated":"2025-02-06T09:29:01.153987+00:00","context":{"id":"01JKD9EQYMWZ1HMPQD3PDW78MH","parent_id":null,"user_id":"5e153d1d945e415ea2f45c7cddfeb9fc"}},
+      "state": {"entity_id":"light.profilermr","state":"off","attributes":{"supported_color_modes":["brightness"],"color_mode":null,"brightness":null,"type":"dimmer","dmx_channels":[9],"dmx_values":[0],"values":[],"bright":255,"friendly_name":"ProfilerMR","supported_features":40},"last_changed":"2025-02-06T09:48:38.790230+00:00","last_reported":"2025-02-06T09:48:38.790230+00:00","last_updated":"2025-02-06T09:48:38.790230+00:00","context":{"id":"01JKDAJP06B5Q2YX004HHF3MEA","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"light.profilerr","state":"off","attributes":{"supported_color_modes":["brightness"],"color_mode":null,"brightness":null,"type":"dimmer","dmx_channels":[10],"dmx_values":[0],"values":[],"bright":255,"friendly_name":"ProfilerR","supported_features":40},"last_changed":"2025-02-06T09:29:01.141826+00:00","last_reported":"2025-02-06T09:29:01.154232+00:00","last_updated":"2025-02-06T09:29:01.154232+00:00","context":{"id":"01JKD9EQYMWZ1HMPQD3PDW78MH","parent_id":null,"user_id":"5e153d1d945e415ea2f45c7cddfeb9fc"}},
+      "state": {"entity_id":"light.profilerr","state":"off","attributes":{"supported_color_modes":["brightness"],"color_mode":null,"brightness":null,"type":"dimmer","dmx_channels":[10],"dmx_values":[0],"values":[],"bright":255,"friendly_name":"ProfilerR","supported_features":40},"last_changed":"2025-02-06T09:48:38.790319+00:00","last_reported":"2025-02-06T09:48:38.790319+00:00","last_updated":"2025-02-06T09:48:38.790319+00:00","context":{"id":"01JKDAJP0619VH2CCE3CF7V55K","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"update.bubble_card_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"v2.4.0","in_progress":false,"latest_version":"v2.4.0","release_summary":null,"release_url":"https://github.com/Clooos/Bubble-Card/releases/v2.4.0","skipped_version":null,"title":null,"update_percentage":null,"friendly_name":"Bubble Card update","supported_features":23},"last_changed":"2025-02-06T07:41:29.441025+00:00","last_reported":"2025-02-06T07:41:29.441025+00:00","last_updated":"2025-02-06T07:41:29.441025+00:00","context":{"id":"01JKD39VF1YPRNM5TTA1WQ2J1M","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.hacs_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"2.0.5","in_progress":false,"latest_version":"2.0.5","release_summary":null,"release_url":"https://github.com/hacs/integration/releases/2.0.5","skipped_version":null,"title":null,"update_percentage":null,"entity_picture":"https://brands.home-assistant.io/_/hacs/icon.png","friendly_name":"HACS update","supported_features":23},"last_changed":"2025-02-06T09:48:39.286489+00:00","last_reported":"2025-02-06T09:48:39.286489+00:00","last_updated":"2025-02-06T09:48:39.286489+00:00","context":{"id":"01JKDAJPFPK3WCDRZQADJVMDRH","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"update.art_net_led_lighting_for_dmx_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"v0.1.21","in_progress":false,"latest_version":"v0.1.21","release_summary":null,"release_url":"https://github.com/Breina/ha-artnet-led/releases/v0.1.21","skipped_version":null,"title":null,"update_percentage":null,"entity_picture":"https://brands.home-assistant.io/_/artnet_led/icon.png","friendly_name":"Art-net LED Lighting for DMX update","supported_features":23},"last_changed":"2025-02-06T07:41:29.441268+00:00","last_reported":"2025-02-06T07:41:29.441268+00:00","last_updated":"2025-02-06T07:41:29.441268+00:00","context":{"id":"01JKD39VF13CY0R6GY1KKJ1A3S","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.behringer_mixer_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"v0.1.13","in_progress":false,"latest_version":"v0.1.13","release_summary":null,"release_url":"https://github.com/wrodie/ha_behringer_mixer/releases/v0.1.13","skipped_version":null,"title":null,"update_percentage":null,"entity_picture":"https://brands.home-assistant.io/_/ha_behringer_mixer/icon.png","friendly_name":"Behringer Mixer update","supported_features":23},"last_changed":"2025-02-06T09:48:39.286748+00:00","last_reported":"2025-02-06T09:48:39.286748+00:00","last_updated":"2025-02-06T09:48:39.286748+00:00","context":{"id":"01JKDAJPFP8DTYRM3NJ9RA8MWG","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"update.audio_mixer_card_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"v0.1.7","in_progress":false,"latest_version":"v0.1.7","release_summary":null,"release_url":"https://github.com/wrodie/mixer-card/releases/v0.1.7","skipped_version":null,"title":null,"update_percentage":null,"friendly_name":"Audio Mixer Card update","supported_features":23},"last_changed":"2025-02-06T07:41:29.441421+00:00","last_reported":"2025-02-06T07:41:29.441421+00:00","last_updated":"2025-02-06T07:41:29.441421+00:00","context":{"id":"01JKD39VF1YJJFR3D9AJJAQXJH","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.audio_mixer_card_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"v0.1.7","in_progress":false,"latest_version":"v0.1.7","release_summary":null,"release_url":"https://github.com/wrodie/mixer-card/releases/v0.1.7","skipped_version":null,"title":null,"update_percentage":null,"friendly_name":"Audio Mixer Card update","supported_features":23},"last_changed":"2025-02-06T09:48:39.286935+00:00","last_reported":"2025-02-06T09:48:39.286935+00:00","last_updated":"2025-02-06T09:48:39.286935+00:00","context":{"id":"01JKDAJPFP4834FD6F7MYG56BG","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"update.behringer_mixer_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"v0.1.13","in_progress":false,"latest_version":"v0.1.13","release_summary":null,"release_url":"https://github.com/wrodie/ha_behringer_mixer/releases/v0.1.13","skipped_version":null,"title":null,"update_percentage":null,"entity_picture":"https://brands.home-assistant.io/_/ha_behringer_mixer/icon.png","friendly_name":"Behringer Mixer update","supported_features":23},"last_changed":"2025-02-06T07:41:29.441543+00:00","last_reported":"2025-02-06T07:41:29.441543+00:00","last_updated":"2025-02-06T07:41:29.441543+00:00","context":{"id":"01JKD39VF1NVGG2FGTF5AVGM57","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.art_net_led_lighting_for_dmx_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"v0.1.21","in_progress":false,"latest_version":"v0.1.21","release_summary":null,"release_url":"https://github.com/Breina/ha-artnet-led/releases/v0.1.21","skipped_version":null,"title":null,"update_percentage":null,"entity_picture":"https://brands.home-assistant.io/_/artnet_led/icon.png","friendly_name":"Art-net LED Lighting for DMX update","supported_features":23},"last_changed":"2025-02-06T09:48:39.287095+00:00","last_reported":"2025-02-06T09:48:39.287095+00:00","last_updated":"2025-02-06T09:48:39.287095+00:00","context":{"id":"01JKDAJPFQJC17N1C0FW2738EX","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"update.hacs_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"2.0.5","in_progress":false,"latest_version":"2.0.5","release_summary":null,"release_url":"https://github.com/hacs/integration/releases/2.0.5","skipped_version":null,"title":null,"update_percentage":null,"entity_picture":"https://brands.home-assistant.io/_/hacs/icon.png","friendly_name":"HACS update","supported_features":23},"last_changed":"2025-02-06T07:41:29.441669+00:00","last_reported":"2025-02-06T07:41:29.441669+00:00","last_updated":"2025-02-06T07:41:29.441669+00:00","context":{"id":"01JKD39VF1F3BDJ4C529Y50Z8K","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"update.bubble_card_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"v2.4.0","in_progress":false,"latest_version":"v2.4.0","release_summary":null,"release_url":"https://github.com/Clooos/Bubble-Card/releases/v2.4.0","skipped_version":null,"title":null,"update_percentage":null,"friendly_name":"Bubble Card update","supported_features":23},"last_changed":"2025-02-06T09:48:39.287237+00:00","last_reported":"2025-02-06T09:48:39.287237+00:00","last_updated":"2025-02-06T09:48:39.287237+00:00","context":{"id":"01JKDAJPFQF25ESYKV9K0EFXXG","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"device_tracker.sm_t580","state":"home","attributes":{"source_type":"gps","latitude":52.4186815,"longitude":10.7819609,"gps_accuracy":100,"altitude":110.0,"course":0,"speed":0,"vertical_accuracy":0,"friendly_name":"SM-T580"},"last_changed":"2025-02-06T09:28:43.715442+00:00","last_reported":"2025-02-06T09:28:43.715442+00:00","last_updated":"2025-02-06T09:28:43.715442+00:00","context":{"id":"01JKD9E6Y340MPP11FFPVD22X8","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"device_tracker.sm_t580","state":"home","attributes":{"source_type":"gps","latitude":52.4186815,"longitude":10.7819609,"gps_accuracy":100,"altitude":110.0,"course":0,"speed":0,"vertical_accuracy":0,"friendly_name":"SM-T580"},"last_changed":"2025-02-06T09:48:39.306549+00:00","last_reported":"2025-02-06T09:48:39.306549+00:00","last_updated":"2025-02-06T09:48:39.306549+00:00","context":{"id":"01JKDAJPGAYPRNM5TTA1WQ2J1M","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"sensor.sm_t580_battery_level","state":"49","attributes":{"state_class":"measurement","unit_of_measurement":"%","device_class":"battery","icon":"mdi:battery-charging-40","friendly_name":"SM-T580 Battery level"},"last_changed":"2025-02-06T09:35:08.060908+00:00","last_reported":"2025-02-06T09:35:08.060908+00:00","last_updated":"2025-02-06T09:35:08.060908+00:00","context":{"id":"01JKD9SY8W6JX1NKDKCW0PKN5C","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.sm_t580_battery_level","state":"51","attributes":{"state_class":"measurement","unit_of_measurement":"%","device_class":"battery","icon":"mdi:battery-charging-50","friendly_name":"SM-T580 Battery level"},"last_changed":"2025-02-06T09:48:39.307223+00:00","last_reported":"2025-02-06T09:48:39.307223+00:00","last_updated":"2025-02-06T09:48:39.307223+00:00","context":{"id":"01JKDAJPGB3CY0R6GY1KKJ1A3S","parent_id":null,"user_id":null}},
       "extra_data": {
-        "native_value": 49,
+        "native_value": 51,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"sensor.sm_t580_battery_state","state":"charging","attributes":{"options":["charging","discharging","full","not_charging"],"device_class":"enum","icon":"mdi:battery-plus","friendly_name":"SM-T580 Battery state"},"last_changed":"2025-02-06T09:35:08.061147+00:00","last_reported":"2025-02-06T09:35:08.061147+00:00","last_updated":"2025-02-06T09:35:08.061147+00:00","context":{"id":"01JKD9SY8XZT501P0MNC12M6F5","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.sm_t580_battery_state","state":"charging","attributes":{"options":["charging","discharging","full","not_charging"],"device_class":"enum","icon":"mdi:battery-plus","friendly_name":"SM-T580 Battery state"},"last_changed":"2025-02-06T09:48:39.307445+00:00","last_reported":"2025-02-06T09:48:39.307445+00:00","last_updated":"2025-02-06T09:48:39.307445+00:00","context":{"id":"01JKDAJPGBYJJFR3D9AJJAQXJH","parent_id":null,"user_id":null}},
       "extra_data": {
         "native_value": "charging",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"sensor.sm_t580_charger_type","state":"ac","attributes":{"options":["ac","usb","wireless","dock","none"],"device_class":"enum","icon":"mdi:power-plug","friendly_name":"SM-T580 Charger type"},"last_changed":"2025-02-06T09:35:08.061286+00:00","last_reported":"2025-02-06T09:35:08.061286+00:00","last_updated":"2025-02-06T09:35:08.061286+00:00","context":{"id":"01JKD9SY8XY7Q6T7PSX5GXNTD8","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.sm_t580_charger_type","state":"ac","attributes":{"options":["ac","usb","wireless","dock","none"],"device_class":"enum","icon":"mdi:power-plug","friendly_name":"SM-T580 Charger type"},"last_changed":"2025-02-06T09:48:39.307628+00:00","last_reported":"2025-02-06T09:48:39.307628+00:00","last_updated":"2025-02-06T09:48:39.307628+00:00","context":{"id":"01JKDAJPGBNVGG2FGTF5AVGM57","parent_id":null,"user_id":null}},
       "extra_data": {
         "native_value": "ac",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"device_tracker.a063","state":"unknown","attributes":{"source_type":"gps","friendly_name":"A063"},"last_changed":"2025-02-06T07:41:29.465508+00:00","last_reported":"2025-02-06T07:41:29.465508+00:00","last_updated":"2025-02-06T07:41:29.465508+00:00","context":{"id":"01JKD39VFS8K3RC6TGMXVYGQ9Z","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"device_tracker.a063","state":"unknown","attributes":{"source_type":"gps","friendly_name":"A063"},"last_changed":"2025-02-06T09:48:39.308219+00:00","last_reported":"2025-02-06T09:48:39.308219+00:00","last_updated":"2025-02-06T09:48:39.308219+00:00","context":{"id":"01JKDAJPGCF3BDJ4C529Y50Z8K","parent_id":null,"user_id":null}},
       "extra_data": null,
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"sensor.a063_battery_level","state":"62","attributes":{"state_class":"measurement","unit_of_measurement":"%","device_class":"battery","icon":"mdi:battery-60","friendly_name":"A063 Battery level"},"last_changed":"2025-02-06T09:23:03.027792+00:00","last_reported":"2025-02-06T09:23:03.027792+00:00","last_updated":"2025-02-06T09:23:03.027792+00:00","context":{"id":"01JKD93T7KCS3VW2WX9P313V75","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.a063_battery_level","state":"62","attributes":{"state_class":"measurement","unit_of_measurement":"%","device_class":"battery","icon":"mdi:battery-60","friendly_name":"A063 Battery level"},"last_changed":"2025-02-06T09:48:39.308605+00:00","last_reported":"2025-02-06T09:48:39.308605+00:00","last_updated":"2025-02-06T09:48:39.308605+00:00","context":{"id":"01JKDAJPGCN01XESP3SFVXM1KW","parent_id":null,"user_id":null}},
       "extra_data": {
         "native_value": 62,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"sensor.a063_battery_state","state":"discharging","attributes":{"options":["charging","discharging","full","not_charging"],"device_class":"enum","icon":"mdi:battery-minus","friendly_name":"A063 Battery state"},"last_changed":"2025-02-06T07:41:29.466030+00:00","last_reported":"2025-02-06T07:41:29.466030+00:00","last_updated":"2025-02-06T07:41:29.466030+00:00","context":{"id":"01JKD39VFT7A7P9PYTX9CNQZ5P","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.a063_battery_state","state":"discharging","attributes":{"options":["charging","discharging","full","not_charging"],"device_class":"enum","icon":"mdi:battery-minus","friendly_name":"A063 Battery state"},"last_changed":"2025-02-06T09:48:39.309202+00:00","last_reported":"2025-02-06T09:48:39.309202+00:00","last_updated":"2025-02-06T09:48:39.309202+00:00","context":{"id":"01JKDAJPGD0CZJDADQ6D6K07DB","parent_id":null,"user_id":null}},
       "extra_data": {
         "native_value": "discharging",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
-      "state": {"entity_id":"sensor.a063_charger_type","state":"none","attributes":{"options":["ac","usb","wireless","dock","none"],"device_class":"enum","icon":"mdi:battery","friendly_name":"A063 Charger type"},"last_changed":"2025-02-06T07:41:29.466162+00:00","last_reported":"2025-02-06T07:41:29.466162+00:00","last_updated":"2025-02-06T07:41:29.466162+00:00","context":{"id":"01JKD39VFTV2A6B8VCZ2GES24R","parent_id":null,"user_id":null}},
+      "state": {"entity_id":"sensor.a063_charger_type","state":"none","attributes":{"options":["ac","usb","wireless","dock","none"],"device_class":"enum","icon":"mdi:battery","friendly_name":"A063 Charger type"},"last_changed":"2025-02-06T09:48:39.309391+00:00","last_reported":"2025-02-06T09:48:39.309391+00:00","last_updated":"2025-02-06T09:48:39.309391+00:00","context":{"id":"01JKDAJPGDBB7QQC1CSM6PAR36","parent_id":null,"user_id":null}},
       "extra_data": {
         "native_value": "none",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2025-02-06T09:41:33.814008+00:00"
+      "last_seen": "2025-02-06T09:48:43.877321+00:00"
     },
     {
       "state": {"entity_id":"tts.google_translate_en_com","state":"unknown","attributes":{"friendly_name":"Google Translate en com"},"last_changed":"2025-02-05T18:13:31.093601+00:00","last_reported":"2025-02-05T18:13:31.093601+00:00","last_updated":"2025-02-05T18:13:31.093601+00:00","context":{"id":"01JKBN2DANEZYMXKHBGFAQQA72","parent_id":null,"user_id":null}},
