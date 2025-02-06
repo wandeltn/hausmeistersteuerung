@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "minor_version": 3,
+  "key": "backup",
+  "data": {
+    "backups": [
+      {
+        "backup_id": "f15a3210",
+        "failed_agent_ids": []
+      },
+      {
+        "backup_id": "4cdb719b",
+        "failed_agent_ids": []
+      }
+    ],
+    "config": {
+      "agents": {},
+      "create_backup": {
+        "agent_ids": [
+          "hassio.local"
+        ],
+        "include_addons": [],
+        "include_all_addons": true,
+        "include_database": true,
+        "include_folders": [
+          "share"
+        ],
+        "name": null,
+        "password": "U7P4-Y8NI-T6RQ-5SHS-EFJ2-Q0C9-10JW"
+      },
+      "last_attempted_automatic_backup": "2025-02-06T10:36:50.797218+01:00",
+      "last_completed_automatic_backup": "2025-02-06T10:37:18.224177+01:00",
+      "retention": {
+        "copies": 3,
+        "days": null
+      },
+      "schedule": {
+        "days": [],
+        "recurrence": "daily",
+        "state": "never",
+        "time": null
+      }
+    }
+  }
+}
